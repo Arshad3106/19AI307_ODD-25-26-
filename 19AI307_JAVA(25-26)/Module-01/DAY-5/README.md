@@ -31,8 +31,8 @@ To write a Java program that reads a string from the user and prints the reverse
 ## PROGRAM:
 ``` txt
 Program to implement Strings and Math Function using Java
-Developed by: V Anisha
-RegisterNumber:  212224040023
+Developed by: MOHAMED ARSHADULLAH A
+RegisterNumber:  212224230161
 ```
 
 ---
@@ -61,4 +61,5 @@ class prog{
 
 ## RESULT:
 Thus, the Java program to **reverse a given string** was executed successfully.
+
 
