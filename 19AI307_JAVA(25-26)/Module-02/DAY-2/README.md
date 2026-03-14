@@ -23,8 +23,8 @@ cube = x * square(x).
 6. Display the cube.
 7. End the program.
 
-#### Developed by: ABISHA RANI S
-#### RegisterNumber:  212224040012
+#### Developed by: MOHAMED ARSHADULLAH A
+#### RegisterNumber:  212224230161
 
 ## SOURCE CODE:
 ```
