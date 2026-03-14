@@ -20,8 +20,8 @@ To define a Java class named Teacher with attributes name, subject, and experien
 6. Display the teacher’s details using print statements.
 7. End the program.
 
-#### Developed by: ABISHA RANI S
-#### RegisterNumber:  212224040012
+#### Developed by: MOHAMED ARSHADULLAH A
+#### RegisterNumber:  212224230161
 
 ## SOURCE CODE:
 ```
